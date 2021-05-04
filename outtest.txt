@@ -1,0 +1,5182 @@
+[
+    {
+        "text_normal": "Не паникуйте, что вам дали неработающий форум",
+        "text": "не паникуйте, что вам дали неработающий форум",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "2",
+                "deprel": "neg"
+            },
+            "2": {
+                "id": "2",
+                "mood": "Imp",
+                "form": "паникуйте,",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "что",
+                "upos": "PRON",
+                "parent_id": "5",
+                "deprel": "dobj"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "вам",
+                "upos": "PRON",
+                "parent_id": "5",
+                "deprel": "nmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "дали",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "xcomp"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "неработающий",
+                "upos": "VERB",
+                "parent_id": "7",
+                "deprel": "amod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "форум",
+                "upos": "NOUN",
+                "parent_id": "5",
+                "deprel": "dobj"
+            }
+        }
+    },
+    {
+        "text_normal": "просто зайдите в админку и прочитайте что надо сделать.",
+        "text": "просто зайдите в админку и прочитайте что надо сделать.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "просто",
+                "upos": "PART",
+                "parent_id": "2",
+                "deprel": "advmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "Imp",
+                "form": "зайдите",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "4",
+                "deprel": "case"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "админку",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "nmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "2",
+                "deprel": "cc"
+            },
+            "6": {
+                "id": "6",
+                "mood": "Imp",
+                "form": "прочитайте",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "conj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "что",
+                "upos": "PRON",
+                "parent_id": "8",
+                "deprel": "nsubj"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "надо",
+                "upos": "ADV",
+                "parent_id": "6",
+                "deprel": "advmod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "сделать.",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "conj"
+            }
+        }
+    },
+    {
+        "text_normal": "2) Для начала зайдите в профиль, а потом в админку. Почитайте названия разделов, и что там можно изменять. Узнаете много нового. Дополнительно читаем FAQи по админке на этом форуме.",
+        "text": "2) для начала зайдите в профиль, а потом в админку. почитайте названия разделов, и что там можно изменять. узнаете много нового. дополнительно читаем faqи по админке на этом форуме.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "2)",
+                "upos": "NUM",
+                "parent_id": "4",
+                "deprel": "nmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "для",
+                "upos": "ADP",
+                "parent_id": "3",
+                "deprel": "case"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "начала",
+                "upos": "NOUN",
+                "parent_id": "1",
+                "deprel": "nmod"
+            },
+            "4": {
+                "id": "4",
+                "mood": "Imp",
+                "form": "зайдите",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "6",
+                "deprel": "case"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "профиль,",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "nmod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "а",
+                "upos": "CONJ",
+                "parent_id": "4",
+                "deprel": "cc"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "потом",
+                "upos": "ADV",
+                "parent_id": "11",
+                "deprel": "advmod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "10",
+                "deprel": "case"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "админку.",
+                "upos": "NOUN",
+                "parent_id": "11",
+                "deprel": "nmod"
+            },
+            "11": {
+                "id": "11",
+                "mood": "Imp",
+                "form": "почитайте",
+                "upos": "VERB",
+                "parent_id": "4",
+                "deprel": "conj"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "названия",
+                "upos": "NOUN",
+                "parent_id": "11",
+                "deprel": "dobj"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "разделов,",
+                "upos": "NOUN",
+                "parent_id": "12",
+                "deprel": "nmod"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "4",
+                "deprel": "cc"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "что",
+                "upos": "PRON",
+                "parent_id": "17",
+                "deprel": "dobj"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "там",
+                "upos": "ADV",
+                "parent_id": "17",
+                "deprel": "advmod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "можно",
+                "upos": "ADV",
+                "parent_id": "4",
+                "deprel": "conj"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "изменять.",
+                "upos": "ADV",
+                "parent_id": "19",
+                "deprel": "advmod"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "узнаете",
+                "upos": "VERB",
+                "parent_id": "17",
+                "deprel": "nsubj"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "много",
+                "upos": "ADV",
+                "parent_id": "19",
+                "deprel": "advmod"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "нового.",
+                "upos": "NOUN",
+                "parent_id": "20",
+                "deprel": "dobj"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "дополнительно",
+                "upos": "ADV",
+                "parent_id": "23",
+                "deprel": "advmod"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "читаем",
+                "upos": "VERB",
+                "parent_id": "19",
+                "deprel": "conj"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "faqи",
+                "upos": "VERB",
+                "parent_id": "23",
+                "deprel": "xcomp"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "по",
+                "upos": "ADP",
+                "parent_id": "26",
+                "deprel": "case"
+            },
+            "26": {
+                "id": "26",
+                "mood": "",
+                "form": "админке",
+                "upos": "NOUN",
+                "parent_id": "24",
+                "deprel": "nmod"
+            },
+            "27": {
+                "id": "27",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "28",
+                "deprel": "case"
+            },
+            "28": {
+                "id": "28",
+                "mood": "",
+                "form": "этом",
+                "upos": "NOUN",
+                "parent_id": "26",
+                "deprel": "nmod"
+            },
+            "29": {
+                "id": "29",
+                "mood": "",
+                "form": "форуме.",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "punct"
+            }
+        }
+    },
+    {
+        "text_normal": "3) Форум сломать почти невозможно, есть бэк-ап и рестор... Но лучше не трогать того, что не знаете! Это одно из главных правил. Если не знаете CSS, то не надо трогать вкладку Стиль в админке! Сначала почитайте FAQ по оформлению на этом форуме и другие полезные темы.",
+        "text": "3) форум сломать почти невозможно, есть бэк-ап и рестор... но лучше не трогать того, что не знаете! это одно из главных правил. если не знаете css, то не надо трогать вкладку стиль в админке! сначала почитайте faq по оформлению на этом форуме и другие полезные темы.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "3)",
+                "upos": "NUM",
+                "parent_id": "2",
+                "deprel": "nummod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "форум",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "сломать",
+                "upos": "VERB",
+                "parent_id": "5",
+                "deprel": "nsubj"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "почти",
+                "upos": "ADV",
+                "parent_id": "5",
+                "deprel": "advmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "невозможно,",
+                "upos": "ADJ",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "есть",
+                "upos": "AUX",
+                "parent_id": "5",
+                "deprel": "cop"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "бэк-ап",
+                "upos": "NOUN",
+                "parent_id": "10",
+                "deprel": "nsubj"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "7",
+                "deprel": "cc"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "рестор...",
+                "upos": "NOUN",
+                "parent_id": "7",
+                "deprel": "conj"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "но",
+                "upos": "CONJ",
+                "parent_id": "13",
+                "deprel": "cc"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "лучше",
+                "upos": "ADJ",
+                "parent_id": "13",
+                "deprel": "advmod"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "13",
+                "deprel": "neg"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "трогать",
+                "upos": "VERB",
+                "parent_id": "5",
+                "deprel": "nsubj"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "того,",
+                "upos": "ADV",
+                "parent_id": "13",
+                "deprel": "advmod"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "что",
+                "upos": "SCONJ",
+                "parent_id": "17",
+                "deprel": "mark"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "17",
+                "deprel": "neg"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "знаете!",
+                "upos": "VERB",
+                "parent_id": "13",
+                "deprel": "advcl"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "это",
+                "upos": "NOUN",
+                "parent_id": "17",
+                "deprel": "nsubj"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "одно",
+                "upos": "ADJ",
+                "parent_id": "17",
+                "deprel": "acl"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "из",
+                "upos": "ADP",
+                "parent_id": "22",
+                "deprel": "case"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "главных",
+                "upos": "ADJ",
+                "parent_id": "22",
+                "deprel": "amod"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "правил.",
+                "upos": "NOUN",
+                "parent_id": "19",
+                "deprel": "nmod"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "если",
+                "upos": "SCONJ",
+                "parent_id": "25",
+                "deprel": "mark"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "25",
+                "deprel": "neg"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "знаете",
+                "upos": "VERB",
+                "parent_id": "29",
+                "deprel": "advcl"
+            },
+            "26": {
+                "id": "26",
+                "mood": "",
+                "form": "css,",
+                "upos": "ADP",
+                "parent_id": "27",
+                "deprel": "case"
+            },
+            "27": {
+                "id": "27",
+                "mood": "",
+                "form": "то",
+                "upos": "NOUN",
+                "parent_id": "25",
+                "deprel": "dobj"
+            },
+            "28": {
+                "id": "28",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "29",
+                "deprel": "neg"
+            },
+            "29": {
+                "id": "29",
+                "mood": "",
+                "form": "надо",
+                "upos": "ADV",
+                "parent_id": "19",
+                "deprel": "parataxis"
+            },
+            "30": {
+                "id": "30",
+                "mood": "",
+                "form": "трогать",
+                "upos": "VERB",
+                "parent_id": "29",
+                "deprel": "nsubj"
+            },
+            "31": {
+                "id": "31",
+                "mood": "",
+                "form": "вкладку",
+                "upos": "NOUN",
+                "parent_id": "30",
+                "deprel": "dobj"
+            },
+            "32": {
+                "id": "32",
+                "mood": "",
+                "form": "стиль",
+                "upos": "NOUN",
+                "parent_id": "36",
+                "deprel": "nsubj"
+            },
+            "33": {
+                "id": "33",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "34",
+                "deprel": "case"
+            },
+            "34": {
+                "id": "34",
+                "mood": "",
+                "form": "админке!",
+                "upos": "NOUN",
+                "parent_id": "32",
+                "deprel": "nmod"
+            },
+            "35": {
+                "id": "35",
+                "mood": "",
+                "form": "сначала",
+                "upos": "ADV",
+                "parent_id": "36",
+                "deprel": "advmod"
+            },
+            "36": {
+                "id": "36",
+                "mood": "Imp",
+                "form": "почитайте",
+                "upos": "VERB",
+                "parent_id": "29",
+                "deprel": "conj"
+            },
+            "37": {
+                "id": "37",
+                "mood": "",
+                "form": "faq",
+                "upos": "ADV",
+                "parent_id": "36",
+                "deprel": "advmod"
+            },
+            "38": {
+                "id": "38",
+                "mood": "",
+                "form": "по",
+                "upos": "ADP",
+                "parent_id": "39",
+                "deprel": "case"
+            },
+            "39": {
+                "id": "39",
+                "mood": "",
+                "form": "оформлению",
+                "upos": "NOUN",
+                "parent_id": "37",
+                "deprel": "dobj"
+            },
+            "40": {
+                "id": "40",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "42",
+                "deprel": "case"
+            },
+            "41": {
+                "id": "41",
+                "mood": "",
+                "form": "этом",
+                "upos": "DET",
+                "parent_id": "42",
+                "deprel": "det"
+            },
+            "42": {
+                "id": "42",
+                "mood": "",
+                "form": "форуме",
+                "upos": "NOUN",
+                "parent_id": "39",
+                "deprel": "nmod"
+            },
+            "43": {
+                "id": "43",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "37",
+                "deprel": "cc"
+            },
+            "44": {
+                "id": "44",
+                "mood": "",
+                "form": "другие",
+                "upos": "ADJ",
+                "parent_id": "46",
+                "deprel": "amod"
+            },
+            "45": {
+                "id": "45",
+                "mood": "",
+                "form": "полезные",
+                "upos": "ADJ",
+                "parent_id": "46",
+                "deprel": "amod"
+            },
+            "46": {
+                "id": "46",
+                "mood": "",
+                "form": "темы.",
+                "upos": "NOUN",
+                "parent_id": "37",
+                "deprel": "conj"
+            }
+        }
+    },
+    {
+        "text_normal": "4) Если ставите скрипты - то читайте для чего они. Хороший админ не ставит неизвестных скриптов.",
+        "text": "4) если ставите скрипты - то читайте для чего они. хороший админ не ставит неизвестных скриптов.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "4)",
+                "upos": "NUM",
+                "parent_id": "2",
+                "deprel": "nummod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "если",
+                "upos": "SCONJ",
+                "parent_id": "3",
+                "deprel": "mark"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "ставите",
+                "upos": "VERB",
+                "parent_id": "7",
+                "deprel": "advcl"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "скрипты",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "-",
+                "upos": "PUNCT",
+                "parent_id": "4",
+                "deprel": "punct"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "то",
+                "upos": "PART",
+                "parent_id": "3",
+                "deprel": "cc"
+            },
+            "7": {
+                "id": "7",
+                "mood": "Imp",
+                "form": "читайте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "для",
+                "upos": "ADP",
+                "parent_id": "9",
+                "deprel": "case"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "чего",
+                "upos": "PRON",
+                "parent_id": "14",
+                "deprel": "nmod"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "они.",
+                "upos": "PART",
+                "parent_id": "11",
+                "deprel": "advmod"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "хороший",
+                "upos": "ADJ",
+                "parent_id": "12",
+                "deprel": "amod"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "админ",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "nsubj"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "14",
+                "deprel": "neg"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "ставит",
+                "upos": "VERB",
+                "parent_id": "7",
+                "deprel": "parataxis"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "неизвестных",
+                "upos": "ADJ",
+                "parent_id": "16",
+                "deprel": "amod"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "скриптов.",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "dobj"
+            }
+        }
+    },
+    {
+        "text_normal": "5) Скрипты ставьте так, как написано знающими людьми. Не надо игнорировать строчки: если не напишите сюда ник, то скрипт работать не будет.",
+        "text": "5) скрипты ставьте так, как написано знающими людьми. не надо игнорировать строчки: если не напишите сюда ник, то скрипт работать не будет.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "5)",
+                "upos": "NUM",
+                "parent_id": "2",
+                "deprel": "nummod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "скрипты",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "nsubj"
+            },
+            "3": {
+                "id": "3",
+                "mood": "Imp",
+                "form": "ставьте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "так,",
+                "upos": "ADV",
+                "parent_id": "3",
+                "deprel": "advmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "как",
+                "upos": "SCONJ",
+                "parent_id": "4",
+                "deprel": "cc"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "написано",
+                "upos": "VERB",
+                "parent_id": "4",
+                "deprel": "advmod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "знающими",
+                "upos": "ADJ",
+                "parent_id": "6",
+                "deprel": "dobj"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "людьми.",
+                "upos": "NOUN",
+                "parent_id": "10",
+                "deprel": "dobj"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "10",
+                "deprel": "neg"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "надо",
+                "upos": "ADV",
+                "parent_id": "3",
+                "deprel": "advmod"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "игнорировать",
+                "upos": "VERB",
+                "parent_id": "10",
+                "deprel": "nsubj"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "строчки:",
+                "upos": "ADV",
+                "parent_id": "11",
+                "deprel": "advmod"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "если",
+                "upos": "SCONJ",
+                "parent_id": "15",
+                "deprel": "mark"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "15",
+                "deprel": "neg"
+            },
+            "15": {
+                "id": "15",
+                "mood": "Imp",
+                "form": "напишите",
+                "upos": "VERB",
+                "parent_id": "19",
+                "deprel": "advcl"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "сюда",
+                "upos": "ADV",
+                "parent_id": "15",
+                "deprel": "advmod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "ник,",
+                "upos": "ADV",
+                "parent_id": "15",
+                "deprel": "advmod"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "то",
+                "upos": "CONJ",
+                "parent_id": "15",
+                "deprel": "cc"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "скрипт",
+                "upos": "VERB",
+                "parent_id": "10",
+                "deprel": "conj"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "работать",
+                "upos": "VERB",
+                "parent_id": "19",
+                "deprel": "xcomp"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "22",
+                "deprel": "neg"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "будет.",
+                "upos": "ADV",
+                "parent_id": "20",
+                "deprel": "advmod"
+            }
+        }
+    },
+    {
+        "text_normal": "6) Хороший админ не трогает то, что хорошо работает. Не изменяйте скрипты и Стиль, если все хорошо работает. Особенно если у вас нет представлений чем это может обернуться. Лучше поставить новый скрипт, чем пытаться добавить строчку в уже существующий.",
+        "text": "6) хороший админ не трогает то, что хорошо работает. не изменяйте скрипты и стиль, если все хорошо работает. особенно если у вас нет представлений чем это может обернуться. лучше поставить новый скрипт, чем пытаться добавить строчку в уже существующий.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "6)",
+                "upos": "NUM",
+                "parent_id": "3",
+                "deprel": "nummod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "хороший",
+                "upos": "ADJ",
+                "parent_id": "3",
+                "deprel": "amod"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "админ",
+                "upos": "NOUN",
+                "parent_id": "5",
+                "deprel": "nsubj"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "5",
+                "deprel": "neg"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "трогает",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "то,",
+                "upos": "ADV",
+                "parent_id": "5",
+                "deprel": "advmod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "что",
+                "upos": "PRON",
+                "parent_id": "9",
+                "deprel": "nsubj"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "хорошо",
+                "upos": "ADV",
+                "parent_id": "9",
+                "deprel": "advmod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "работает.",
+                "upos": "VERB",
+                "parent_id": "5",
+                "deprel": "parataxis"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "11",
+                "deprel": "neg"
+            },
+            "11": {
+                "id": "11",
+                "mood": "Imp",
+                "form": "изменяйте",
+                "upos": "VERB",
+                "parent_id": "9",
+                "deprel": "xcomp"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "скрипты",
+                "upos": "NOUN",
+                "parent_id": "11",
+                "deprel": "dobj"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "11",
+                "deprel": "cc"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "стиль,",
+                "upos": "ADV",
+                "parent_id": "23",
+                "deprel": "advmod"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "если",
+                "upos": "SCONJ",
+                "parent_id": "18",
+                "deprel": "mark"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "все",
+                "upos": "NOUN",
+                "parent_id": "18",
+                "deprel": "nsubj"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "хорошо",
+                "upos": "ADV",
+                "parent_id": "18",
+                "deprel": "advmod"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "работает.",
+                "upos": "VERB",
+                "parent_id": "23",
+                "deprel": "advcl"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "особенно",
+                "upos": "ADV",
+                "parent_id": "18",
+                "deprel": "advmod"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "если",
+                "upos": "SCONJ",
+                "parent_id": "18",
+                "deprel": "cc"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "у",
+                "upos": "ADP",
+                "parent_id": "22",
+                "deprel": "case"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "вас",
+                "upos": "PRON",
+                "parent_id": "23",
+                "deprel": "dobj"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "нет",
+                "upos": "VERB",
+                "parent_id": "11",
+                "deprel": "conj"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "представлений",
+                "upos": "NOUN",
+                "parent_id": "23",
+                "deprel": "nsubj"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "чем",
+                "upos": "PRON",
+                "parent_id": "27",
+                "deprel": "nmod"
+            },
+            "26": {
+                "id": "26",
+                "mood": "",
+                "form": "это",
+                "upos": "NOUN",
+                "parent_id": "27",
+                "deprel": "nsubj"
+            },
+            "27": {
+                "id": "27",
+                "mood": "",
+                "form": "может",
+                "upos": "VERB",
+                "parent_id": "23",
+                "deprel": "parataxis"
+            },
+            "28": {
+                "id": "28",
+                "mood": "",
+                "form": "обернуться.",
+                "upos": "VERB",
+                "parent_id": "27",
+                "deprel": "xcomp"
+            },
+            "29": {
+                "id": "29",
+                "mood": "",
+                "form": "лучше",
+                "upos": "ADJ",
+                "parent_id": "28",
+                "deprel": "advmod"
+            },
+            "30": {
+                "id": "30",
+                "mood": "",
+                "form": "поставить",
+                "upos": "VERB",
+                "parent_id": "28",
+                "deprel": "xcomp"
+            },
+            "31": {
+                "id": "31",
+                "mood": "",
+                "form": "новый",
+                "upos": "ADJ",
+                "parent_id": "32",
+                "deprel": "amod"
+            },
+            "32": {
+                "id": "32",
+                "mood": "",
+                "form": "скрипт,",
+                "upos": "NOUN",
+                "parent_id": "30",
+                "deprel": "dobj"
+            },
+            "33": {
+                "id": "33",
+                "mood": "",
+                "form": "чем",
+                "upos": "CONJ",
+                "parent_id": "30",
+                "deprel": "cc"
+            },
+            "34": {
+                "id": "34",
+                "mood": "",
+                "form": "пытаться",
+                "upos": "VERB",
+                "parent_id": "30",
+                "deprel": "advmod"
+            },
+            "35": {
+                "id": "35",
+                "mood": "",
+                "form": "добавить",
+                "upos": "VERB",
+                "parent_id": "34",
+                "deprel": "xcomp"
+            },
+            "36": {
+                "id": "36",
+                "mood": "",
+                "form": "строчку",
+                "upos": "NOUN",
+                "parent_id": "35",
+                "deprel": "dobj"
+            },
+            "37": {
+                "id": "37",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "39",
+                "deprel": "mark"
+            },
+            "38": {
+                "id": "38",
+                "mood": "",
+                "form": "уже",
+                "upos": "ADV",
+                "parent_id": "39",
+                "deprel": "advmod"
+            },
+            "39": {
+                "id": "39",
+                "mood": "",
+                "form": "существующий.",
+                "upos": "VERB",
+                "parent_id": "35",
+                "deprel": "dobj"
+            }
+        }
+    },
+    {
+        "text_normal": "7) Все ответы на любые вопросы уже даны на этом форуме. Используйте Поиск. А еще можно прочесть название разделов (поймете, что в разделе",
+        "text": "7) все ответы на любые вопросы уже даны на этом форуме. используйте поиск. а еще можно прочесть название разделов (поймете, что в разделе",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "7)",
+                "upos": "ADP",
+                "parent_id": "3",
+                "deprel": "case"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "все",
+                "upos": "DET",
+                "parent_id": "3",
+                "deprel": "det"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "ответы",
+                "upos": "NOUN",
+                "parent_id": "8",
+                "deprel": "nsubjpass"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "6",
+                "deprel": "case"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "любые",
+                "upos": "ADJ",
+                "parent_id": "6",
+                "deprel": "amod"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "вопросы",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "уже",
+                "upos": "ADV",
+                "parent_id": "8",
+                "deprel": "advmod"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "даны",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "10",
+                "deprel": "case"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "этом",
+                "upos": "DET",
+                "parent_id": "8",
+                "deprel": "nmod"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "форуме.",
+                "upos": "ADV",
+                "parent_id": "8",
+                "deprel": "advmod"
+            },
+            "12": {
+                "id": "12",
+                "mood": "Imp",
+                "form": "используйте",
+                "upos": "VERB",
+                "parent_id": "8",
+                "deprel": "xcomp"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "поиск.",
+                "upos": "NOUN",
+                "parent_id": "12",
+                "deprel": "nsubj"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "а",
+                "upos": "CONJ",
+                "parent_id": "12",
+                "deprel": "cc"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "еще",
+                "upos": "ADV",
+                "parent_id": "16",
+                "deprel": "advmod"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "можно",
+                "upos": "ADV",
+                "parent_id": "12",
+                "deprel": "conj"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "прочесть",
+                "upos": "VERB",
+                "parent_id": "16",
+                "deprel": "nsubj"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "название",
+                "upos": "NOUN",
+                "parent_id": "17",
+                "deprel": "dobj"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "разделов",
+                "upos": "NOUN",
+                "parent_id": "18",
+                "deprel": "nmod"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "(поймете,",
+                "upos": "VERB",
+                "parent_id": "17",
+                "deprel": "conj"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "что",
+                "upos": "SCONJ",
+                "parent_id": "23",
+                "deprel": "mark"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "23",
+                "deprel": "case"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "разделе",
+                "upos": "NOUN",
+                "parent_id": "20",
+                "deprel": "advcl"
+            }
+        }
+    },
+    {
+        "text_normal": "8) Обратите внимание, что на форум где-то работает ХТМЛ, а где-то ББ-коды. Не путайте. Учебники по ХТМЛ можно найти бесплатно в инете. Яндекс поможет!",
+        "text": "8) обратите внимание, что на форум где-то работает хтмл, а где-то бб-коды. не путайте. учебники по хтмл можно найти бесплатно в инете. яндекс поможет!",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "8)",
+                "upos": "ADV",
+                "parent_id": "2",
+                "deprel": "advmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "Imp",
+                "form": "обратите",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "внимание,",
+                "upos": "ADV",
+                "parent_id": "2",
+                "deprel": "advmod"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "что",
+                "upos": "SCONJ",
+                "parent_id": "8",
+                "deprel": "mark"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "6",
+                "deprel": "case"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "форум",
+                "upos": "NOUN",
+                "parent_id": "8",
+                "deprel": "nmod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "где-то",
+                "upos": "ADV",
+                "parent_id": "8",
+                "deprel": "advmod"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "работает",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "advcl"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "хтмл,",
+                "upos": "ADP",
+                "parent_id": "12",
+                "deprel": "case"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "а",
+                "upos": "CONJ",
+                "parent_id": "9",
+                "deprel": "cc"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "где-то",
+                "upos": "ADV",
+                "parent_id": "9",
+                "deprel": "conj"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "бб-коды.",
+                "upos": "NOUN",
+                "parent_id": "8",
+                "deprel": "nmod"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "14",
+                "deprel": "neg"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "путайте.",
+                "upos": "VERB",
+                "parent_id": "18",
+                "deprel": "xcomp"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "учебники",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "dobj"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "по",
+                "upos": "ADP",
+                "parent_id": "17",
+                "deprel": "case"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "хтмл",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "nmod"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "можно",
+                "upos": "ADV",
+                "parent_id": "8",
+                "deprel": "conj"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "найти",
+                "upos": "VERB",
+                "parent_id": "18",
+                "deprel": "nsubj"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "бесплатно",
+                "upos": "ADV",
+                "parent_id": "19",
+                "deprel": "advmod"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "23",
+                "deprel": "case"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "инете.",
+                "upos": "ADJ",
+                "parent_id": "23",
+                "deprel": "amod"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "яндекс",
+                "upos": "NOUN",
+                "parent_id": "19",
+                "deprel": "nmod"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "поможет!",
+                "upos": "ADV",
+                "parent_id": "2",
+                "deprel": "advmod"
+            }
+        }
+    },
+    {
+        "text_normal": "1) Читайте Правила форума и Сервиса! В правилах Сервиса дана ВАЖНАЯ информация.",
+        "text": "1) читайте правила форума и сервиса! в правилах сервиса дана важная информация.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "1)",
+                "upos": "ADV",
+                "parent_id": "2",
+                "deprel": "advmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "Imp",
+                "form": "читайте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "правила",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "nsubj"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "форума",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "nmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "4",
+                "deprel": "cc"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "сервиса!",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "conj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "8",
+                "deprel": "case"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "правилах",
+                "upos": "NOUN",
+                "parent_id": "10",
+                "deprel": "nmod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "сервиса",
+                "upos": "NOUN",
+                "parent_id": "8",
+                "deprel": "nmod"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "дана",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "conj"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "важная",
+                "upos": "NOUN",
+                "parent_id": "10",
+                "deprel": "nsubjpass"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "информация.",
+                "upos": "NOUN",
+                "parent_id": "11",
+                "deprel": "appos"
+            }
+        }
+    },
+    {
+        "text_normal": "2) Читайте про ограничения!",
+        "text": "2) читайте про ограничения!",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "2)",
+                "upos": "ADV",
+                "parent_id": "2",
+                "deprel": "advmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "Imp",
+                "form": "читайте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "про",
+                "upos": "ADP",
+                "parent_id": "4",
+                "deprel": "case"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "ограничения!",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "dobj"
+            }
+        }
+    },
+    {
+        "text_normal": "3) Не ставьте много скриптов.",
+        "text": "3) не ставьте много скриптов.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "3)",
+                "upos": "NUM",
+                "parent_id": "3",
+                "deprel": "advmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "3",
+                "deprel": "neg"
+            },
+            "3": {
+                "id": "3",
+                "mood": "Imp",
+                "form": "ставьте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "много",
+                "upos": "ADV",
+                "parent_id": "3",
+                "deprel": "advmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "скриптов.",
+                "upos": "VERB",
+                "parent_id": "3",
+                "deprel": "conj"
+            }
+        }
+    },
+    {
+        "text_normal": "5) Уважайте всех",
+        "text": "5) уважайте всех",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "5)",
+                "upos": "ADV",
+                "parent_id": "2",
+                "deprel": "advmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "Imp",
+                "form": "уважайте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "всех",
+                "upos": "ADJ",
+                "parent_id": "2",
+                "deprel": "amod"
+            }
+        }
+    },
+    {
+        "text_normal": "Хотите быстро получить ответ на ЕТП? Не хотите постить его в каждой теме? Не хотитите долго ждать? Попробуйте найти его сами! Это быстрее! Поиск поможет вам!",
+        "text": "хотите быстро получить ответ на етп? не хотите постить его в каждой теме? не хотитите долго ждать? попробуйте найти его сами! это быстрее! поиск поможет вам!",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "хотите",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "быстро",
+                "upos": "ADV",
+                "parent_id": "3",
+                "deprel": "advmod"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "получить",
+                "upos": "VERB",
+                "parent_id": "1",
+                "deprel": "xcomp"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "ответ",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "4",
+                "deprel": "nmod"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "етп?",
+                "upos": "PART",
+                "parent_id": "8",
+                "deprel": "advmod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "8",
+                "deprel": "neg"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "хотите",
+                "upos": "VERB",
+                "parent_id": "1",
+                "deprel": "conj"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "постить",
+                "upos": "VERB",
+                "parent_id": "8",
+                "deprel": "xcomp"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "его",
+                "upos": "PRON",
+                "parent_id": "9",
+                "deprel": "dobj"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "25",
+                "deprel": "mark"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "каждой",
+                "upos": "DET",
+                "parent_id": "15",
+                "deprel": "det"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "теме?",
+                "upos": "ADV",
+                "parent_id": "15",
+                "deprel": "advmod"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "15",
+                "deprel": "neg"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "хотитите",
+                "upos": "VERB",
+                "parent_id": "25",
+                "deprel": "nsubj"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "долго",
+                "upos": "ADV",
+                "parent_id": "15",
+                "deprel": "advmod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "Imp",
+                "form": "ждать?",
+                "upos": "ADV",
+                "parent_id": "18",
+                "deprel": "advmod"
+            },
+            "18": {
+                "id": "18",
+                "mood": "Imp",
+                "form": "попробуйте",
+                "upos": "VERB",
+                "parent_id": "25",
+                "deprel": "xcomp"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "найти",
+                "upos": "VERB",
+                "parent_id": "25",
+                "deprel": "xcomp"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "его",
+                "upos": "PRON",
+                "parent_id": "22",
+                "deprel": "dobj"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "сами!",
+                "upos": "ADJ",
+                "parent_id": "22",
+                "deprel": "amod"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "это",
+                "upos": "NOUN",
+                "parent_id": "19",
+                "deprel": "dobj"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "быстрее!",
+                "upos": "ADV",
+                "parent_id": "25",
+                "deprel": "advmod"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "поиск",
+                "upos": "NOUN",
+                "parent_id": "25",
+                "deprel": "nsubj"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "поможет",
+                "upos": "VERB",
+                "parent_id": "9",
+                "deprel": "nmod"
+            },
+            "26": {
+                "id": "26",
+                "mood": "",
+                "form": "вам!",
+                "upos": "ADV",
+                "parent_id": "25",
+                "deprel": "advmod"
+            }
+        }
+    },
+    {
+        "text_normal": "Используя эти советы вы за пару минут получите отличный форум, а потом кто знает... Может всемирно известный форум. Помните - главное правильно начать и составить о себе и своем форуме хорошее и правильное представление!",
+        "text": "используя эти советы вы за пару минут получите отличный форум, а потом кто знает... может всемирно известный форум. помните - главное правильно начать и составить о себе и своем форуме хорошее и правильное представление!",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "используя",
+                "upos": "VERB",
+                "parent_id": "8",
+                "deprel": "advcl"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "эти",
+                "upos": "DET",
+                "parent_id": "3",
+                "deprel": "det"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "советы",
+                "upos": "NOUN",
+                "parent_id": "1",
+                "deprel": "dobj"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "вы",
+                "upos": "PRON",
+                "parent_id": "8",
+                "deprel": "nsubj"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "за",
+                "upos": "ADP",
+                "parent_id": "6",
+                "deprel": "case"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "пару",
+                "upos": "NOUN",
+                "parent_id": "8",
+                "deprel": "nmod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "минут",
+                "upos": "NOUN",
+                "parent_id": "6",
+                "deprel": "nmod"
+            },
+            "8": {
+                "id": "8",
+                "mood": "Imp",
+                "form": "получите",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "отличный",
+                "upos": "ADJ",
+                "parent_id": "10",
+                "deprel": "amod"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "форум,",
+                "upos": "NOUN",
+                "parent_id": "8",
+                "deprel": "dobj"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "а",
+                "upos": "CONJ",
+                "parent_id": "8",
+                "deprel": "cc"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "потом",
+                "upos": "ADV",
+                "parent_id": "13",
+                "deprel": "advmod"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "кто",
+                "upos": "PRON",
+                "parent_id": "15",
+                "deprel": "nsubj"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "знает...",
+                "upos": "ADV",
+                "parent_id": "15",
+                "deprel": "advmod"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "может",
+                "upos": "VERB",
+                "parent_id": "19",
+                "deprel": "parataxis"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "всемирно",
+                "upos": "ADV",
+                "parent_id": "17",
+                "deprel": "advmod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "известный",
+                "upos": "ADJ",
+                "parent_id": "18",
+                "deprel": "amod"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "форум.",
+                "upos": "NOUN",
+                "parent_id": "19",
+                "deprel": "nsubj"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "помните",
+                "upos": "VERB",
+                "parent_id": "8",
+                "deprel": "conj"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "-",
+                "upos": "PUNCT",
+                "parent_id": "19",
+                "deprel": "punct"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "главное",
+                "upos": "NOUN",
+                "parent_id": "19",
+                "deprel": "parataxis"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "правильно",
+                "upos": "ADV",
+                "parent_id": "23",
+                "deprel": "advmod"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "начать",
+                "upos": "VERB",
+                "parent_id": "21",
+                "deprel": "nsubj"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "23",
+                "deprel": "cc"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "составить",
+                "upos": "VERB",
+                "parent_id": "23",
+                "deprel": "conj"
+            },
+            "26": {
+                "id": "26",
+                "mood": "",
+                "form": "о",
+                "upos": "ADP",
+                "parent_id": "27",
+                "deprel": "case"
+            },
+            "27": {
+                "id": "27",
+                "mood": "",
+                "form": "себе",
+                "upos": "PRON",
+                "parent_id": "25",
+                "deprel": "nmod"
+            },
+            "28": {
+                "id": "28",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "27",
+                "deprel": "cc"
+            },
+            "29": {
+                "id": "29",
+                "mood": "",
+                "form": "своем",
+                "upos": "DET",
+                "parent_id": "30",
+                "deprel": "det"
+            },
+            "30": {
+                "id": "30",
+                "mood": "",
+                "form": "форуме",
+                "upos": "NOUN",
+                "parent_id": "27",
+                "deprel": "conj"
+            },
+            "31": {
+                "id": "31",
+                "mood": "",
+                "form": "хорошее",
+                "upos": "ADJ",
+                "parent_id": "34",
+                "deprel": "amod"
+            },
+            "32": {
+                "id": "32",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "31",
+                "deprel": "cc"
+            },
+            "33": {
+                "id": "33",
+                "mood": "",
+                "form": "правильное",
+                "upos": "ADJ",
+                "parent_id": "31",
+                "deprel": "conj"
+            },
+            "34": {
+                "id": "34",
+                "mood": "",
+                "form": "представление!",
+                "upos": "NOUN",
+                "parent_id": "25",
+                "deprel": "dobj"
+            }
+        }
+    },
+    {
+        "text_normal": "1) Сделали что-то неверно - создайте здесь тему и дайте подробное описание проблемы. Сделайте скриншоты.",
+        "text": "1) сделали что-то неверно - создайте здесь тему и дайте подробное описание проблемы. сделайте скриншоты.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "1)",
+                "upos": "NUM",
+                "parent_id": "2",
+                "deprel": "nsubj"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "сделали",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "что-то",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "dobj"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "неверно",
+                "upos": "ADJ",
+                "parent_id": "3",
+                "deprel": "amod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "-",
+                "upos": "PUNCT",
+                "parent_id": "4",
+                "deprel": "punct"
+            },
+            "6": {
+                "id": "6",
+                "mood": "Imp",
+                "form": "создайте",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "conj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "здесь",
+                "upos": "ADV",
+                "parent_id": "6",
+                "deprel": "advmod"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "тему",
+                "upos": "NOUN",
+                "parent_id": "6",
+                "deprel": "dobj"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "2",
+                "deprel": "cc"
+            },
+            "10": {
+                "id": "10",
+                "mood": "Imp",
+                "form": "дайте",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "conj"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "подробное",
+                "upos": "ADJ",
+                "parent_id": "12",
+                "deprel": "amod"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "описание",
+                "upos": "NOUN",
+                "parent_id": "10",
+                "deprel": "dobj"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "проблемы.",
+                "upos": "NOUN",
+                "parent_id": "12",
+                "deprel": "dobj"
+            },
+            "14": {
+                "id": "14",
+                "mood": "Imp",
+                "form": "сделайте",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "conj"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "скриншоты.",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "punct"
+            }
+        }
+    },
+    {
+        "text_normal": "2) Не ставьте админами и модерами на своем форуме незнакомых людей.",
+        "text": "2) не ставьте админами и модерами на своем форуме незнакомых людей.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "2)",
+                "upos": "NUM",
+                "parent_id": "3",
+                "deprel": "nmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "3",
+                "deprel": "neg"
+            },
+            "3": {
+                "id": "3",
+                "mood": "Imp",
+                "form": "ставьте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "админами",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "nmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "4",
+                "deprel": "cc"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "модерами",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "conj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "9",
+                "deprel": "case"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "своем",
+                "upos": "DET",
+                "parent_id": "9",
+                "deprel": "det"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "форуме",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "nmod"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "незнакомых",
+                "upos": "ADJ",
+                "parent_id": "11",
+                "deprel": "amod"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "людей.",
+                "upos": "NOUN",
+                "parent_id": "9",
+                "deprel": "nmod"
+            }
+        }
+    },
+    {
+        "text_normal": "3) Вам абсолютно ненужны 10 админов и 30 модеров. Уберите почти всех.",
+        "text": "3) вам абсолютно ненужны 10 админов и 30 модеров. уберите почти всех.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "3)",
+                "upos": "ADV",
+                "parent_id": "4",
+                "deprel": "nsubj"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "вам",
+                "upos": "PRON",
+                "parent_id": "1",
+                "deprel": "nmod"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "абсолютно",
+                "upos": "ADV",
+                "parent_id": "4",
+                "deprel": "advmod"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "ненужны",
+                "upos": "ADJ",
+                "parent_id": "10",
+                "deprel": "nmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "10",
+                "upos": "NUM",
+                "parent_id": "6",
+                "deprel": "nummod"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "админов",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "dobj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "6",
+                "deprel": "cc"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "30",
+                "upos": "NUM",
+                "parent_id": "9",
+                "deprel": "nummod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "модеров.",
+                "upos": "NOUN",
+                "parent_id": "6",
+                "deprel": "conj"
+            },
+            "10": {
+                "id": "10",
+                "mood": "Imp",
+                "form": "уберите",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "почти",
+                "upos": "ADV",
+                "parent_id": "12",
+                "deprel": "advmod"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "всех.",
+                "upos": "ADJ",
+                "parent_id": "10",
+                "deprel": "advmod"
+            }
+        }
+    },
+    {
+        "text_normal": "4) Не афишируйте свое мыло, пароль и т.д. Не давайте никому пароль к аккаунту. Доверять можно только людям на этом форуме, кто имеет большое кол-во сообщений (более 200-300) и положительную репутацию, кто имеет статус старожил/Гуру, модераторам.",
+        "text": "4) не афишируйте свое мыло, пароль и т.д. не давайте никому пароль к аккаунту. доверять можно только людям на этом форуме, кто имеет большое кол-во сообщений (более 200-300) и положительную репутацию, кто имеет статус старожил/гуру, модераторам.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "4)",
+                "upos": "ADV",
+                "parent_id": "3",
+                "deprel": "advmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "3",
+                "deprel": "neg"
+            },
+            "3": {
+                "id": "3",
+                "mood": "Imp",
+                "form": "афишируйте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "свое",
+                "upos": "DET",
+                "parent_id": "6",
+                "deprel": "det"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "мыло,",
+                "upos": "ADJ",
+                "parent_id": "6",
+                "deprel": "amod"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "пароль",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "3",
+                "deprel": "cc"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "т.д.",
+                "upos": "ADV",
+                "parent_id": "10",
+                "deprel": "advmod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "10",
+                "deprel": "neg"
+            },
+            "10": {
+                "id": "10",
+                "mood": "Imp",
+                "form": "давайте",
+                "upos": "VERB",
+                "parent_id": "3",
+                "deprel": "conj"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "никому",
+                "upos": "PRON",
+                "parent_id": "12",
+                "deprel": "dobj"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "пароль",
+                "upos": "NOUN",
+                "parent_id": "10",
+                "deprel": "dobj"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "к",
+                "upos": "ADP",
+                "parent_id": "16",
+                "deprel": "mark"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "аккаунту.",
+                "upos": "ADV",
+                "parent_id": "16",
+                "deprel": "nmod"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "доверять",
+                "upos": "VERB",
+                "parent_id": "16",
+                "deprel": "nsubj"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "можно",
+                "upos": "ADV",
+                "parent_id": "10",
+                "deprel": "advmod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "только",
+                "upos": "PART",
+                "parent_id": "18",
+                "deprel": "advmod"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "людям",
+                "upos": "NOUN",
+                "parent_id": "16",
+                "deprel": "nmod"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "20",
+                "deprel": "case"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "этом",
+                "upos": "NOUN",
+                "parent_id": "16",
+                "deprel": "nmod"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "форуме,",
+                "upos": "ADP",
+                "parent_id": "22",
+                "deprel": "case"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "кто",
+                "upos": "PRON",
+                "parent_id": "23",
+                "deprel": "nsubj"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "имеет",
+                "upos": "VERB",
+                "parent_id": "16",
+                "deprel": "nsubj"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "большое",
+                "upos": "ADJ",
+                "parent_id": "31",
+                "deprel": "amod"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "кол-во",
+                "upos": "ADV",
+                "parent_id": "28",
+                "deprel": "advmod"
+            },
+            "26": {
+                "id": "26",
+                "mood": "",
+                "form": "сообщений",
+                "upos": "NOUN",
+                "parent_id": "28",
+                "deprel": "nsubj"
+            },
+            "27": {
+                "id": "27",
+                "mood": "",
+                "form": "(более",
+                "upos": "ADV",
+                "parent_id": "28",
+                "deprel": "advmod"
+            },
+            "28": {
+                "id": "28",
+                "mood": "",
+                "form": "200-300)",
+                "upos": "ADJ",
+                "parent_id": "31",
+                "deprel": "amod"
+            },
+            "29": {
+                "id": "29",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "28",
+                "deprel": "cc"
+            },
+            "30": {
+                "id": "30",
+                "mood": "",
+                "form": "положительную",
+                "upos": "ADJ",
+                "parent_id": "28",
+                "deprel": "conj"
+            },
+            "31": {
+                "id": "31",
+                "mood": "",
+                "form": "репутацию,",
+                "upos": "NOUN",
+                "parent_id": "23",
+                "deprel": "dobj"
+            },
+            "32": {
+                "id": "32",
+                "mood": "",
+                "form": "кто",
+                "upos": "PRON",
+                "parent_id": "33",
+                "deprel": "nsubj"
+            },
+            "33": {
+                "id": "33",
+                "mood": "",
+                "form": "имеет",
+                "upos": "VERB",
+                "parent_id": "31",
+                "deprel": "acl:relcl"
+            },
+            "34": {
+                "id": "34",
+                "mood": "",
+                "form": "статус",
+                "upos": "NOUN",
+                "parent_id": "33",
+                "deprel": "dobj"
+            },
+            "35": {
+                "id": "35",
+                "mood": "",
+                "form": "старожил/гуру,",
+                "upos": "NOUN",
+                "parent_id": "34",
+                "deprel": "nmod"
+            },
+            "36": {
+                "id": "36",
+                "mood": "",
+                "form": "модераторам.",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "advmod"
+            }
+        }
+    },
+    {
+        "text_normal": "5) Не берите скрипт для форумов с других сайтов. Они в большинстве случаев работают неверно и грузят форум. Не ставьте скрипты с пометкой: для сайта.",
+        "text": "5) не берите скрипт для форумов с других сайтов. они в большинстве случаев работают неверно и грузят форум. не ставьте скрипты с пометкой: для сайта.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "5)",
+                "upos": "NUM",
+                "parent_id": "3",
+                "deprel": "nsubj"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "3",
+                "deprel": "neg"
+            },
+            "3": {
+                "id": "3",
+                "mood": "Imp",
+                "form": "берите",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "скрипт",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "для",
+                "upos": "ADP",
+                "parent_id": "6",
+                "deprel": "case"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "форумов",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "nmod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "с",
+                "upos": "ADP",
+                "parent_id": "9",
+                "deprel": "case"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "других",
+                "upos": "ADJ",
+                "parent_id": "9",
+                "deprel": "amod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "сайтов.",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "nmod"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "они",
+                "upos": "PRON",
+                "parent_id": "14",
+                "deprel": "nsubj"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "12",
+                "deprel": "case"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "большинстве",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "nmod"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "случаев",
+                "upos": "NOUN",
+                "parent_id": "12",
+                "deprel": "nmod"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "работают",
+                "upos": "VERB",
+                "parent_id": "3",
+                "deprel": "conj"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "неверно",
+                "upos": "ADV",
+                "parent_id": "14",
+                "deprel": "advmod"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "3",
+                "deprel": "cc"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "грузят",
+                "upos": "VERB",
+                "parent_id": "3",
+                "deprel": "conj"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "форум.",
+                "upos": "ADV",
+                "parent_id": "17",
+                "deprel": "advmod"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "20",
+                "deprel": "neg"
+            },
+            "20": {
+                "id": "20",
+                "mood": "Imp",
+                "form": "ставьте",
+                "upos": "VERB",
+                "parent_id": "17",
+                "deprel": "xcomp"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "скрипты",
+                "upos": "NOUN",
+                "parent_id": "20",
+                "deprel": "dobj"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "с",
+                "upos": "ADP",
+                "parent_id": "23",
+                "deprel": "case"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "пометкой:",
+                "upos": "NOUN",
+                "parent_id": "20",
+                "deprel": "nmod"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "для",
+                "upos": "ADP",
+                "parent_id": "25",
+                "deprel": "case"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "сайта.",
+                "upos": "NOUN",
+                "parent_id": "23",
+                "deprel": "nmod"
+            }
+        }
+    },
+    {
+        "text_normal": "1) Не ставьте непроверенные скрипты рекламы.",
+        "text": "1) не ставьте непроверенные скрипты рекламы.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "1)",
+                "upos": "NUM",
+                "parent_id": "3",
+                "deprel": "nmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "3",
+                "deprel": "neg"
+            },
+            "3": {
+                "id": "3",
+                "mood": "Imp",
+                "form": "ставьте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "непроверенные",
+                "upos": "ADJ",
+                "parent_id": "5",
+                "deprel": "amod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "скрипты",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "nsubj"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "рекламы.",
+                "upos": "NOUN",
+                "parent_id": "5",
+                "deprel": "nmod"
+            }
+        }
+    },
+    {
+        "text_normal": "2) Не рекламируйте форум путем спама.",
+        "text": "2) не рекламируйте форум путем спама.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "2)",
+                "upos": "NUM",
+                "parent_id": "3",
+                "deprel": "nsubj"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "3",
+                "deprel": "neg"
+            },
+            "3": {
+                "id": "3",
+                "mood": "Imp",
+                "form": "рекламируйте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "форум",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "путем",
+                "upos": "ADP",
+                "parent_id": "6",
+                "deprel": "case"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "спама.",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "nmod"
+            }
+        }
+    },
+    {
+        "text_normal": "Соблюдайте их и у вас не будет проблем с форумом. Ваш форум будет популярен и интересен.",
+        "text": "соблюдайте их и у вас не будет проблем с форумом. ваш форум будет популярен и интересен.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "Imp",
+                "form": "соблюдайте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "их",
+                "upos": "PRON",
+                "parent_id": "1",
+                "deprel": "dobj"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "и",
+                "upos": "PART",
+                "parent_id": "5",
+                "deprel": "advmod"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "у",
+                "upos": "ADP",
+                "parent_id": "5",
+                "deprel": "case"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "вас",
+                "upos": "PRON",
+                "parent_id": "7",
+                "deprel": "nmod"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "7",
+                "deprel": "neg"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "будет",
+                "upos": "VERB",
+                "parent_id": "1",
+                "deprel": "parataxis"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "проблем",
+                "upos": "NOUN",
+                "parent_id": "7",
+                "deprel": "nsubj"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "с",
+                "upos": "ADP",
+                "parent_id": "10",
+                "deprel": "case"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "форумом.",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "nmod"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "ваш",
+                "upos": "DET",
+                "parent_id": "12",
+                "deprel": "det"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "форум",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "nsubj"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "будет",
+                "upos": "AUX",
+                "parent_id": "14",
+                "deprel": "cop"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "популярен",
+                "upos": "ADJ",
+                "parent_id": "8",
+                "deprel": "dobj"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "14",
+                "deprel": "cc"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "интересен.",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "conj"
+            }
+        }
+    },
+    {
+        "text_normal": "Не рекламируйте форум путем спама.",
+        "text": "не рекламируйте форум путем спама.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "2",
+                "deprel": "neg"
+            },
+            "2": {
+                "id": "2",
+                "mood": "Imp",
+                "form": "рекламируйте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "форум",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "dobj"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "путем",
+                "upos": "ADP",
+                "parent_id": "5",
+                "deprel": "case"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "спама.",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "nmod"
+            }
+        }
+    },
+    {
+        "text_normal": "Ну в лучшем случае - занесение адреса форума в черный список (если рекламите на других сервисах, не на майбб). Могут админы прибежать и требовать удаления или наказания форума...",
+        "text": "ну в лучшем случае - занесение адреса форума в черный список (если рекламите на других сервисах, не на майбб). могут админы прибежать и требовать удаления или наказания форума...",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "ну",
+                "upos": "PART",
+                "parent_id": "13",
+                "deprel": "parataxis"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "4",
+                "deprel": "case"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "лучшем",
+                "upos": "ADJ",
+                "parent_id": "4",
+                "deprel": "amod"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "случае",
+                "upos": "NOUN",
+                "parent_id": "13",
+                "deprel": "nmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "-",
+                "upos": "PUNCT",
+                "parent_id": "4",
+                "deprel": "punct"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "занесение",
+                "upos": "NOUN",
+                "parent_id": "13",
+                "deprel": "nsubj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "адреса",
+                "upos": "NOUN",
+                "parent_id": "6",
+                "deprel": "dobj"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "форума",
+                "upos": "NOUN",
+                "parent_id": "7",
+                "deprel": "nmod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "11",
+                "deprel": "case"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "черный",
+                "upos": "ADJ",
+                "parent_id": "11",
+                "deprel": "amod"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "список",
+                "upos": "NOUN",
+                "parent_id": "13",
+                "deprel": "nmod"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "(если",
+                "upos": "PART",
+                "parent_id": "13",
+                "deprel": "advmod"
+            },
+            "13": {
+                "id": "13",
+                "mood": "Imp",
+                "form": "рекламите",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "15",
+                "deprel": "case"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "других",
+                "upos": "ADJ",
+                "parent_id": "13",
+                "deprel": "nmod"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "сервисах,",
+                "upos": "ADV",
+                "parent_id": "13",
+                "deprel": "advmod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "19",
+                "deprel": "neg"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "19",
+                "deprel": "case"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "майбб).",
+                "upos": "NOUN",
+                "parent_id": "16",
+                "deprel": "nmod"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "могут",
+                "upos": "VERB",
+                "parent_id": "13",
+                "deprel": "conj"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "админы",
+                "upos": "NOUN",
+                "parent_id": "20",
+                "deprel": "nsubj"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "прибежать",
+                "upos": "VERB",
+                "parent_id": "20",
+                "deprel": "xcomp"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "22",
+                "deprel": "cc"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "требовать",
+                "upos": "VERB",
+                "parent_id": "22",
+                "deprel": "conj"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "удаления",
+                "upos": "NOUN",
+                "parent_id": "24",
+                "deprel": "dobj"
+            },
+            "26": {
+                "id": "26",
+                "mood": "",
+                "form": "или",
+                "upos": "CONJ",
+                "parent_id": "25",
+                "deprel": "cc"
+            },
+            "27": {
+                "id": "27",
+                "mood": "",
+                "form": "наказания",
+                "upos": "NOUN",
+                "parent_id": "25",
+                "deprel": "conj"
+            },
+            "28": {
+                "id": "28",
+                "mood": "",
+                "form": "форума...",
+                "upos": "NOUN",
+                "parent_id": "25",
+                "deprel": "dobj"
+            }
+        }
+    },
+    {
+        "text_normal": "А может собраться инициативная группа и отомстить)",
+        "text": "а может собраться инициативная группа и отомстить)",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "а",
+                "upos": "CONJ",
+                "parent_id": "2",
+                "deprel": "cc"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "может",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "собраться",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "xcomp"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "инициативная",
+                "upos": "ADJ",
+                "parent_id": "5",
+                "deprel": "amod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "группа",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "nsubj"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "2",
+                "deprel": "cc"
+            },
+            "7": {
+                "id": "7",
+                "mood": "Imp",
+                "form": "отомстить)",
+                "upos": "ADV",
+                "parent_id": "2",
+                "deprel": "conj"
+            }
+        }
+    },
+    {
+        "text_normal": "только не флудите больше в таких темах, лучше создайте свою, никто за это ругать не будет.",
+        "text": "только не флудите больше в таких темах, лучше создайте свою, никто за это ругать не будет.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "только",
+                "upos": "PART",
+                "parent_id": "3",
+                "deprel": "advmod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "3",
+                "deprel": "neg"
+            },
+            "3": {
+                "id": "3",
+                "mood": "Imp",
+                "form": "флудите",
+                "upos": "VERB",
+                "parent_id": "14",
+                "deprel": "acl"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "больше",
+                "upos": "ADV",
+                "parent_id": "3",
+                "deprel": "advmod"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "9",
+                "deprel": "case"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "таких",
+                "upos": "DET",
+                "parent_id": "9",
+                "deprel": "det"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "темах,",
+                "upos": "ADV",
+                "parent_id": "9",
+                "deprel": "advmod"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "лучше",
+                "upos": "ADV",
+                "parent_id": "9",
+                "deprel": "advmod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "Imp",
+                "form": "создайте",
+                "upos": "VERB",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "свою,",
+                "upos": "ADJ",
+                "parent_id": "14",
+                "deprel": "dobj"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "никто",
+                "upos": "PRON",
+                "parent_id": "14",
+                "deprel": "nsubj"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "за",
+                "upos": "ADP",
+                "parent_id": "13",
+                "deprel": "case"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "это",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "dobj"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "ругать",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "14",
+                "deprel": "neg"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "будет.",
+                "upos": "AUX",
+                "parent_id": "14",
+                "deprel": "aux"
+            }
+        }
+    },
+    {
+        "text_normal": "но это мое мнение, не судите строго",
+        "text": "но это мое мнение, не судите строго",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "но",
+                "upos": "CONJ",
+                "parent_id": "6",
+                "deprel": "cc"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "это",
+                "upos": "NOUN",
+                "parent_id": "6",
+                "deprel": "nsubj"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "мое",
+                "upos": "ADJ",
+                "parent_id": "6",
+                "deprel": "det"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "мнение,",
+                "upos": "AUX",
+                "parent_id": "6",
+                "deprel": "aux"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "6",
+                "deprel": "neg"
+            },
+            "6": {
+                "id": "6",
+                "mood": "Imp",
+                "form": "судите",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "строго",
+                "upos": "ADV",
+                "parent_id": "6",
+                "deprel": "advmod"
+            }
+        }
+    },
+    {
+        "text_normal": "Предлагаемое решение - завести второй форум для тестирования предложенных и представленных скриптов и кодов на данном форуме,чтобы протестировав там и поняв что они работоспособные. И все так как Вам нужно, после вставляйте на свой форум.",
+        "text": "предлагаемое решение - завести второй форум для тестирования предложенных и представленных скриптов и кодов на данном форуме,чтобы протестировав там и поняв что они работоспособные. и все так как вам нужно, после вставляйте на свой форум.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "предлагаемое",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "amod"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "решение",
+                "upos": "NOUN",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "-",
+                "upos": "PUNCT",
+                "parent_id": "2",
+                "deprel": "punct"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "завести",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "parataxis"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "второй",
+                "upos": "ADJ",
+                "parent_id": "6",
+                "deprel": "amod"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "форум",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "dobj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "для",
+                "upos": "ADP",
+                "parent_id": "8",
+                "deprel": "case"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "тестирования",
+                "upos": "NOUN",
+                "parent_id": "6",
+                "deprel": "nmod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "предложенных",
+                "upos": "VERB",
+                "parent_id": "12",
+                "deprel": "amod"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "9",
+                "deprel": "cc"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "представленных",
+                "upos": "VERB",
+                "parent_id": "9",
+                "deprel": "conj"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "скриптов",
+                "upos": "NOUN",
+                "parent_id": "8",
+                "deprel": "dobj"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "12",
+                "deprel": "cc"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "кодов",
+                "upos": "NOUN",
+                "parent_id": "12",
+                "deprel": "conj"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "17",
+                "deprel": "case"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "данном",
+                "upos": "ADJ",
+                "parent_id": "17",
+                "deprel": "amod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "форуме,чтобы",
+                "upos": "NOUN",
+                "parent_id": "14",
+                "deprel": "nmod"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "протестировав",
+                "upos": "VERB",
+                "parent_id": "4",
+                "deprel": "advcl"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "там",
+                "upos": "ADV",
+                "parent_id": "18",
+                "deprel": "advmod"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "18",
+                "deprel": "cc"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "поняв",
+                "upos": "VERB",
+                "parent_id": "18",
+                "deprel": "conj"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "что",
+                "upos": "SCONJ",
+                "parent_id": "24",
+                "deprel": "mark"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "они",
+                "upos": "PRON",
+                "parent_id": "24",
+                "deprel": "nsubj"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "работоспособные.",
+                "upos": "ADJ",
+                "parent_id": "21",
+                "deprel": "advcl"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "24",
+                "deprel": "cc"
+            },
+            "26": {
+                "id": "26",
+                "mood": "",
+                "form": "все",
+                "upos": "NOUN",
+                "parent_id": "27",
+                "deprel": "nsubj"
+            },
+            "27": {
+                "id": "27",
+                "mood": "",
+                "form": "так",
+                "upos": "ADV",
+                "parent_id": "24",
+                "deprel": "conj"
+            },
+            "28": {
+                "id": "28",
+                "mood": "",
+                "form": "как",
+                "upos": "SCONJ",
+                "parent_id": "27",
+                "deprel": "cc"
+            },
+            "29": {
+                "id": "29",
+                "mood": "",
+                "form": "вам",
+                "upos": "PRON",
+                "parent_id": "30",
+                "deprel": "dobj"
+            },
+            "30": {
+                "id": "30",
+                "mood": "",
+                "form": "нужно,",
+                "upos": "ADJ",
+                "parent_id": "28",
+                "deprel": "dep"
+            },
+            "31": {
+                "id": "31",
+                "mood": "",
+                "form": "после",
+                "upos": "ADP",
+                "parent_id": "32",
+                "deprel": "mark"
+            },
+            "32": {
+                "id": "32",
+                "mood": "Imp",
+                "form": "вставляйте",
+                "upos": "VERB",
+                "parent_id": "30",
+                "deprel": "nmod"
+            },
+            "33": {
+                "id": "33",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "35",
+                "deprel": "case"
+            },
+            "34": {
+                "id": "34",
+                "mood": "",
+                "form": "свой",
+                "upos": "DET",
+                "parent_id": "35",
+                "deprel": "det"
+            },
+            "35": {
+                "id": "35",
+                "mood": "",
+                "form": "форум.",
+                "upos": "NOUN",
+                "parent_id": "32",
+                "deprel": "nmod"
+            }
+        }
+    },
+    {
+        "text_normal": "Извините что вклиниваюсь в разговор, но для того чтобы не возникало проблем со скриптами и настройками, можно просто создать еще один форум, типа тестового и на нем экспериментировать. Просто перенести все настройки со своего форума и каждый новый скрипт обкатывать на запасном.",
+        "text": "извините что вклиниваюсь в разговор, но для того чтобы не возникало проблем со скриптами и настройками, можно просто создать еще один форум, типа тестового и на нем экспериментировать. просто перенести все настройки со своего форума и каждый новый скрипт обкатывать на запасном.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "Imp",
+                "form": "извините",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "что",
+                "upos": "PRON",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "вклиниваюсь",
+                "upos": "VERB",
+                "parent_id": "1",
+                "deprel": "xcomp"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "5",
+                "deprel": "case"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "разговор,",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "nmod"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "но",
+                "upos": "CONJ",
+                "parent_id": "3",
+                "deprel": "cc"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "для",
+                "upos": "ADP",
+                "parent_id": "8",
+                "deprel": "case"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "того",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "conj"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "чтобы",
+                "upos": "SCONJ",
+                "parent_id": "11",
+                "deprel": "mark"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "11",
+                "deprel": "neg"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "возникало",
+                "upos": "VERB",
+                "parent_id": "8",
+                "deprel": "advcl"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "проблем",
+                "upos": "NOUN",
+                "parent_id": "11",
+                "deprel": "dobj"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "со",
+                "upos": "ADP",
+                "parent_id": "14",
+                "deprel": "case"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "скриптами",
+                "upos": "NOUN",
+                "parent_id": "12",
+                "deprel": "nmod"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "11",
+                "deprel": "cc"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "настройками,",
+                "upos": "ADV",
+                "parent_id": "17",
+                "deprel": "advmod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "можно",
+                "upos": "ADV",
+                "parent_id": "11",
+                "deprel": "conj"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "просто",
+                "upos": "PART",
+                "parent_id": "19",
+                "deprel": "advmod"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "создать",
+                "upos": "VERB",
+                "parent_id": "17",
+                "deprel": "nsubj"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "еще",
+                "upos": "ADV",
+                "parent_id": "21",
+                "deprel": "advmod"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "один",
+                "upos": "ADJ",
+                "parent_id": "22",
+                "deprel": "nummod"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "форум,",
+                "upos": "NOUN",
+                "parent_id": "19",
+                "deprel": "dobj"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "типа",
+                "upos": "NOUN",
+                "parent_id": "22",
+                "deprel": "nmod"
+            },
+            "24": {
+                "id": "24",
+                "mood": "",
+                "form": "тестового",
+                "upos": "ADJ",
+                "parent_id": "23",
+                "deprel": "nmod"
+            },
+            "25": {
+                "id": "25",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "24",
+                "deprel": "cc"
+            },
+            "26": {
+                "id": "26",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "27",
+                "deprel": "case"
+            },
+            "27": {
+                "id": "27",
+                "mood": "",
+                "form": "нем",
+                "upos": "PRON",
+                "parent_id": "24",
+                "deprel": "conj"
+            },
+            "28": {
+                "id": "28",
+                "mood": "",
+                "form": "экспериментировать.",
+                "upos": "ADV",
+                "parent_id": "30",
+                "deprel": "advmod"
+            },
+            "29": {
+                "id": "29",
+                "mood": "",
+                "form": "просто",
+                "upos": "PART",
+                "parent_id": "28",
+                "deprel": "advmod"
+            },
+            "30": {
+                "id": "30",
+                "mood": "",
+                "form": "перенести",
+                "upos": "VERB",
+                "parent_id": "19",
+                "deprel": "conj"
+            },
+            "31": {
+                "id": "31",
+                "mood": "",
+                "form": "все",
+                "upos": "DET",
+                "parent_id": "32",
+                "deprel": "det"
+            },
+            "32": {
+                "id": "32",
+                "mood": "",
+                "form": "настройки",
+                "upos": "NOUN",
+                "parent_id": "30",
+                "deprel": "dobj"
+            },
+            "33": {
+                "id": "33",
+                "mood": "",
+                "form": "со",
+                "upos": "ADP",
+                "parent_id": "35",
+                "deprel": "case"
+            },
+            "34": {
+                "id": "34",
+                "mood": "",
+                "form": "своего",
+                "upos": "DET",
+                "parent_id": "35",
+                "deprel": "det"
+            },
+            "35": {
+                "id": "35",
+                "mood": "",
+                "form": "форума",
+                "upos": "NOUN",
+                "parent_id": "30",
+                "deprel": "nmod"
+            },
+            "36": {
+                "id": "36",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "19",
+                "deprel": "cc"
+            },
+            "37": {
+                "id": "37",
+                "mood": "",
+                "form": "каждый",
+                "upos": "DET",
+                "parent_id": "39",
+                "deprel": "amod"
+            },
+            "38": {
+                "id": "38",
+                "mood": "",
+                "form": "новый",
+                "upos": "ADJ",
+                "parent_id": "39",
+                "deprel": "amod"
+            },
+            "39": {
+                "id": "39",
+                "mood": "",
+                "form": "скрипт",
+                "upos": "NOUN",
+                "parent_id": "40",
+                "deprel": "nmod"
+            },
+            "40": {
+                "id": "40",
+                "mood": "",
+                "form": "обкатывать",
+                "upos": "VERB",
+                "parent_id": "19",
+                "deprel": "conj"
+            },
+            "41": {
+                "id": "41",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "42",
+                "deprel": "case"
+            },
+            "42": {
+                "id": "42",
+                "mood": "",
+                "form": "запасном.",
+                "upos": "ADJ",
+                "parent_id": "40",
+                "deprel": "dobj"
+            }
+        }
+    },
+    {
+        "text_normal": "Не рекламируйте форум путем спама.",
+        "text": "не рекламируйте форум путем спама.",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "2",
+                "deprel": "neg"
+            },
+            "2": {
+                "id": "2",
+                "mood": "Imp",
+                "form": "рекламируйте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "форум",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "dobj"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "путем",
+                "upos": "ADP",
+                "parent_id": "5",
+                "deprel": "case"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "спама.",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "nmod"
+            }
+        }
+    },
+    {
+        "text_normal": "Весь граф контент дизайна форума потихоньку перезалейте на свой форум и поменяйте соответсвующие ссылки в Стиле и Админ настройках:",
+        "text": "весь граф контент дизайна форума потихоньку перезалейте на свой форум и поменяйте соответсвующие ссылки в стиле и админ настройках:",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "весь",
+                "upos": "DET",
+                "parent_id": "2",
+                "deprel": "det"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "граф",
+                "upos": "NOUN",
+                "parent_id": "7",
+                "deprel": "nsubj"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "контент",
+                "upos": "NOUN",
+                "parent_id": "2",
+                "deprel": "appos"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "дизайна",
+                "upos": "NOUN",
+                "parent_id": "3",
+                "deprel": "dobj"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "форума",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "dobj"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "потихоньку",
+                "upos": "ADV",
+                "parent_id": "7",
+                "deprel": "advmod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "Imp",
+                "form": "перезалейте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "на",
+                "upos": "ADP",
+                "parent_id": "10",
+                "deprel": "case"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "свой",
+                "upos": "DET",
+                "parent_id": "10",
+                "deprel": "det"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "форум",
+                "upos": "NOUN",
+                "parent_id": "7",
+                "deprel": "nmod"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "7",
+                "deprel": "cc"
+            },
+            "12": {
+                "id": "12",
+                "mood": "Imp",
+                "form": "поменяйте",
+                "upos": "VERB",
+                "parent_id": "7",
+                "deprel": "conj"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "соответсвующие",
+                "upos": "ADJ",
+                "parent_id": "14",
+                "deprel": "amod"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "ссылки",
+                "upos": "NOUN",
+                "parent_id": "12",
+                "deprel": "dobj"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "16",
+                "deprel": "case"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "стиле",
+                "upos": "NOUN",
+                "parent_id": "12",
+                "deprel": "nmod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "16",
+                "deprel": "cc"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "админ",
+                "upos": "NOUN",
+                "parent_id": "16",
+                "deprel": "conj"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "настройках:",
+                "upos": "ADV",
+                "parent_id": "7",
+                "deprel": "advmod"
+            }
+        }
+    },
+    {
+        "text_normal": "> Сокращайте и Оптимизируйте свой графический  дизайн контент-",
+        "text": "> сокращайте и оптимизируйте свой графический  дизайн контент-",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": ">",
+                "upos": "PUNCT",
+                "parent_id": "2",
+                "deprel": "nsubj"
+            },
+            "2": {
+                "id": "2",
+                "mood": "Imp",
+                "form": "сокращайте",
+                "upos": "VERB",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "2",
+                "deprel": "cc"
+            },
+            "4": {
+                "id": "4",
+                "mood": "Imp",
+                "form": "оптимизируйте",
+                "upos": "VERB",
+                "parent_id": "2",
+                "deprel": "conj"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "свой",
+                "upos": "DET",
+                "parent_id": "7",
+                "deprel": "det"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "графический ",
+                "upos": "ADJ",
+                "parent_id": "7",
+                "deprel": "amod"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "дизайн",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "dobj"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "контент-",
+                "upos": "NOUN",
+                "parent_id": "7",
+                "deprel": "dobj"
+            }
+        }
+    },
+    {
+        "text_normal": "Оптимизацией и сжатием можно получить картинку с изначального в 1-2 мегобайта -  200-300кБ удовлетворяющего придирчивого дизайнера..(*в браузере практически не отличимых! Для непрозрачных картинок используйте",
+        "text": "оптимизацией и сжатием можно получить картинку с изначального в 1-2 мегобайта -  200-300кб удовлетворяющего придирчивого дизайнера..(*в браузере практически не отличимых! для непрозрачных картинок используйте",
+        "tree": {
+            "1": {
+                "id": "1",
+                "mood": "",
+                "form": "оптимизацией",
+                "upos": "NOUN",
+                "parent_id": "4",
+                "deprel": "dobj"
+            },
+            "2": {
+                "id": "2",
+                "mood": "",
+                "form": "и",
+                "upos": "CONJ",
+                "parent_id": "1",
+                "deprel": "cc"
+            },
+            "3": {
+                "id": "3",
+                "mood": "",
+                "form": "сжатием",
+                "upos": "NOUN",
+                "parent_id": "1",
+                "deprel": "conj"
+            },
+            "4": {
+                "id": "4",
+                "mood": "",
+                "form": "можно",
+                "upos": "ADV",
+                "parent_id": "0",
+                "deprel": "ROOT"
+            },
+            "5": {
+                "id": "5",
+                "mood": "",
+                "form": "получить",
+                "upos": "VERB",
+                "parent_id": "4",
+                "deprel": "nsubj"
+            },
+            "6": {
+                "id": "6",
+                "mood": "",
+                "form": "картинку",
+                "upos": "NOUN",
+                "parent_id": "5",
+                "deprel": "dobj"
+            },
+            "7": {
+                "id": "7",
+                "mood": "",
+                "form": "с",
+                "upos": "ADP",
+                "parent_id": "11",
+                "deprel": "case"
+            },
+            "8": {
+                "id": "8",
+                "mood": "",
+                "form": "изначального",
+                "upos": "ADJ",
+                "parent_id": "11",
+                "deprel": "amod"
+            },
+            "9": {
+                "id": "9",
+                "mood": "",
+                "form": "в",
+                "upos": "ADP",
+                "parent_id": "11",
+                "deprel": "case"
+            },
+            "10": {
+                "id": "10",
+                "mood": "",
+                "form": "1-2",
+                "upos": "ADJ",
+                "parent_id": "11",
+                "deprel": "amod"
+            },
+            "11": {
+                "id": "11",
+                "mood": "",
+                "form": "мегобайта",
+                "upos": "NOUN",
+                "parent_id": "6",
+                "deprel": "nmod"
+            },
+            "12": {
+                "id": "12",
+                "mood": "",
+                "form": "- ",
+                "upos": "ADJ",
+                "parent_id": "11",
+                "deprel": "nmod"
+            },
+            "13": {
+                "id": "13",
+                "mood": "",
+                "form": "200-300кб",
+                "upos": "ADJ",
+                "parent_id": "6",
+                "deprel": "parataxis"
+            },
+            "14": {
+                "id": "14",
+                "mood": "",
+                "form": "удовлетворяющего",
+                "upos": "VERB",
+                "parent_id": "16",
+                "deprel": "amod"
+            },
+            "15": {
+                "id": "15",
+                "mood": "",
+                "form": "придирчивого",
+                "upos": "ADJ",
+                "parent_id": "16",
+                "deprel": "amod"
+            },
+            "16": {
+                "id": "16",
+                "mood": "",
+                "form": "дизайнера..(*в",
+                "upos": "NOUN",
+                "parent_id": "13",
+                "deprel": "nmod"
+            },
+            "17": {
+                "id": "17",
+                "mood": "",
+                "form": "браузере",
+                "upos": "NOUN",
+                "parent_id": "16",
+                "deprel": "nmod"
+            },
+            "18": {
+                "id": "18",
+                "mood": "",
+                "form": "практически",
+                "upos": "ADV",
+                "parent_id": "19",
+                "deprel": "advmod"
+            },
+            "19": {
+                "id": "19",
+                "mood": "",
+                "form": "не",
+                "upos": "PART",
+                "parent_id": "20",
+                "deprel": "neg"
+            },
+            "20": {
+                "id": "20",
+                "mood": "",
+                "form": "отличимых!",
+                "upos": "VERB",
+                "parent_id": "5",
+                "deprel": "conj"
+            },
+            "21": {
+                "id": "21",
+                "mood": "",
+                "form": "для",
+                "upos": "ADP",
+                "parent_id": "23",
+                "deprel": "case"
+            },
+            "22": {
+                "id": "22",
+                "mood": "",
+                "form": "непрозрачных",
+                "upos": "ADJ",
+                "parent_id": "23",
+                "deprel": "amod"
+            },
+            "23": {
+                "id": "23",
+                "mood": "",
+                "form": "картинок",
+                "upos": "NOUN",
+                "parent_id": "20",
+                "deprel": "dobj"
+            },
+            "24": {
+                "id": "24",
+                "mood": "Imp",
+                "form": "используйте",
+                "upos": "VERB",
+                "parent_id": "4",
+                "deprel": "parataxis"
+            }
+        }
+    }
+]

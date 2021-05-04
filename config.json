@@ -1,0 +1,29 @@
+{
+   "intents": {
+      "greeting": {
+         "examples": [
+            "привет",
+            "здравствуй",
+            "добрый день"
+         ],
+         "responses": "play_greetings"
+      },
+      "farewell": {
+         "examples": [
+            "пока",
+            "до свидания",
+            "увидимся",
+            "до встречи"
+         ],
+         "responses": "play_farewell_and_quit"
+      },
+      "умнаяЛампочка": {
+         "examples": [
+            "лампочку включи",
+            "лампочку выключи"
+         ],
+         "responses": ""
+      }
+   },
+   "failure_phrases": "play_failure_phrase"
+}

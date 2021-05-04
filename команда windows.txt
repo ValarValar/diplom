@@ -1,0 +1,6 @@
+type test1.txt | docker run --rm -i inemo/syntaxnet_rus > tes_res2.conllu
+
+
+D:\Pycharm projects\ = sys.argv в питоне
+
+D:\Pycharm projects\syntaxNet\docker-syntaxnet_rus-master\docker\
